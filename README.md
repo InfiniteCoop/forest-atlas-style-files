@@ -1,15 +1,15 @@
 # Forest Atlas Style Guide
 
-These resources are intended to expedite the production and deployment of Forest Atlas maps. This repository includes the following assets.
+These resources are intended to expedite the production and deployment of Forest Atlas maps. This repository includes the following assets and links:
 
 * Esri ArcGIS .style files—one for each of the Forest Atlas map themes
-* URL for *Standard WRI* data taxonomy spreadsheet, which details all of the different layers
-* URL for *Forest Atlas Style Guide* spreadsheet, which includes styling rules for the Forest Atlas maps
+* *Standard WRI* data spreadsheet, which details all of the different layers
+* *Forest Atlas Style Guide* spreadsheet, which includes styling rules for the Forest Atlas maps
 
 ### [Standard WRI Spreadsheet](https://docs.google.com/spreadsheets/d/1vRLRplGwL2MEPyG2Ed5uvT-8SRnZa6iuGVNC3YSyD5A/edit?usp=sharing)
 ### [Forest Atlas Style Guide Spreadsheet](https://docs.google.com/spreadsheets/d/1teIyXzKpwQz1pyjuDJLXteRODLt1-xRNBAYe4kvOH2I/edit?usp=sharing)
 
-Please note that these pre-defined map styles are not intended as hard-and-fast rules that cannot be broken, but rather, basic guidelines. You may wish/need to modify them to best suit your needs.
+Please note that these pre-defined map styles are not hard-and-fast rules that cannot be broken, but rather, basic guidelines. You may want/need to modify them to suit your needs.
 
 ## How to create a new Forest Atlas
 ### Preparing the data and .MXD
